@@ -10,3 +10,4 @@ and insuring that you have the Fore module installed from colorama.
 You can write Flowlang code by creating a text file ending in .flo on your machine. This file must be in the same folder as your Flow installation. Next, change the
 `FILENAME = main.flo` variable at the top of your FLOW.py file to whatever you named yours. Your code will be interpreted and executed as FLOW.py is run in the terminal.
 ### Documentation
+[Syntax](docs/syntax.md)
